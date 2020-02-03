@@ -1,0 +1,6 @@
+Theme Name: SoonCloud
+Description: Premium Creative Coming Soon Template
+Author: BinaryPoets
+Author URI: https://themeforest.net/user/binarypoets/portfolio?ref=BinaryPoets
+Version: 1.0
+License: https://themeforest.net/licenses/standard
